@@ -2,7 +2,7 @@ body{
     background-color:rgba(194, 117, 65, 0.979);
     text-align:center;
 }
-.Ingredients{border:5px trasnparent;}
+.Ingredients{border:5px transparent;}
 
 .Desc,.ingredients,.Steps{border:5px transparent;
 width:750px;
