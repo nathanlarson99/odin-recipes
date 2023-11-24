@@ -2,8 +2,8 @@ body{
     background-color:rgba(194, 117, 65, 0.979);
     text-align:center;
 }
-.Ingredients{border:5px solid;}
-.ingredients{border:5px solid;}
+.Ingredients{border:5px trasnparent;}
+
 .Desc,.ingredients,.Steps{border:5px transparent;
 width:750px;
 margin:auto;
